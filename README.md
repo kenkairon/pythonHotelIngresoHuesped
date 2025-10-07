@@ -35,4 +35,4 @@ El nuevo sistema deberá:
 
 
 ## Menu
-[MenuOpciones](menu.png)
+![MenuOpciones](menu.png)
